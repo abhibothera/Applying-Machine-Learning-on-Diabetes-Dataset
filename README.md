@@ -1,1 +1,1 @@
-# Applying-Machine-Learning-on-Diabetes-Dataset
+# Applying Machine Learning on Diabetes Dataset
